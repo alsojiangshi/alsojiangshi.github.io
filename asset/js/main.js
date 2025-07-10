@@ -626,7 +626,7 @@ live2d(z => {
           pass: sdata.valine.pass,
           pointer: sdata.valine.pointer
         },
-        onupdate(appid, appkey, serverurls, languageData, valineId) {
+        onupdate(appid, appkey, languageData, valineId) {
           let language = config.get('langshift') ? 'en' : 'zh-cn';
           if (languageData) {
             new Valine({
@@ -636,7 +636,6 @@ live2d(z => {
               verify: false,
               app_id: appid,
               app_key: appkey,
-              serverURLs: serverurls,
               placeholder: languageData.comment.placeholder,
               lang: language,
               path: pathname().replace(/index.html$/, ''),
