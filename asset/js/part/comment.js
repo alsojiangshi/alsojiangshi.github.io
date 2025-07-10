@@ -5,6 +5,7 @@ let tag = 'comment';
 let element = null;
 let appid = '';
 let appkey = '';
+let serverurls = '';
 let onupdate = null;
 const valine = {
   _dom: null,
@@ -27,6 +28,7 @@ const init = (params, callback) => {
       let result = util.decodePass(params.valine.pass, params.valine.pointer);
       appid = result.appid;
       appkey = result.appkey;
+      serverurls = params.valine.serverurls || '';
       params.onupdate && (onupdate = params.onupdate);
     }
     callback && callback(element);
@@ -39,9 +41,9 @@ const update = langData => {
   if (v) {
     v.id = window.location.pathname.replace(/\/[^\/]+.html$/, '/');
     v.setAttribute('data-flag-title', document.title.replace(/ - [^-]+$/, '').trim());
-    onupdate && onupdate(appid, appkey, langData, valine.newDom());
+    onupdate && onupdate(appid, appkey, serverurls, langData, valine.newDom());
   } else {
-    onupdate && onupdate(appid, appkey, langData, valine.newDom());
+    onupdate && onupdate(appid, appkey, serverurls, langData, valine.newDom());
   }
 };
 
