@@ -96,7 +96,7 @@ const live2d = callback => {
       }).init({
         model: {
           scale: 1,
-          jsonPath: '/asset/live2d/haruto.model.json'
+          jsonPath: '/asset/live2d/koharu.model3.json'
         },
         display: {
           width: 200,
