@@ -3,11 +3,11 @@
   <title>Alsojiangshi</title>
   
   
-  <link href="https://alsojiangshi.github.io/atom.xml" rel="self"/>
+  <link href="https://alsojiangshi.top/atom.xml" rel="self"/>
   
-  <link href="https://alsojiangshi.github.io/"/>
+  <link href="https://alsojiangshi.top/"/>
   <updated>2025-09-20T12:09:20.857Z</updated>
-  <id>https://alsojiangshi.github.io/</id>
+  <id>https://alsojiangshi.top/</id>
   
   <author>
     <name>Alsojiangshi</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>使用 Docker 快速部署 Blessing Skin Server</title>
-    <link href="https://alsojiangshi.github.io/posts/3/"/>
-    <id>https://alsojiangshi.github.io/posts/3/</id>
+    <link href="https://alsojiangshi.top/posts/3/"/>
+    <id>https://alsojiangshi.top/posts/3/</id>
     <published>2025-09-20T12:01:43.000Z</published>
     <updated>2025-09-20T12:09:20.857Z</updated>
     
@@ -34,23 +34,23 @@
     
     
     
-    <category term="Minecraft" scheme="https://alsojiangshi.github.io/categories/Minecraft/"/>
+    <category term="Minecraft" scheme="https://alsojiangshi.top/categories/Minecraft/"/>
     
     
-    <category term="Minecraft" scheme="https://alsojiangshi.github.io/tags/Minecraft/"/>
+    <category term="Minecraft" scheme="https://alsojiangshi.top/tags/Minecraft/"/>
     
-    <category term="Guide" scheme="https://alsojiangshi.github.io/tags/Guide/"/>
+    <category term="Guide" scheme="https://alsojiangshi.top/tags/Guide/"/>
     
-    <category term="BSS" scheme="https://alsojiangshi.github.io/tags/BSS/"/>
+    <category term="BSS" scheme="https://alsojiangshi.top/tags/BSS/"/>
     
-    <category term="Docker" scheme="https://alsojiangshi.github.io/tags/Docker/"/>
+    <category term="Docker" scheme="https://alsojiangshi.top/tags/Docker/"/>
     
   </entry>
   
   <entry>
     <title>Minecraft 纯萌新入坑指南</title>
-    <link href="https://alsojiangshi.github.io/posts/2/"/>
-    <id>https://alsojiangshi.github.io/posts/2/</id>
+    <link href="https://alsojiangshi.top/posts/2/"/>
+    <id>https://alsojiangshi.top/posts/2/</id>
     <published>2025-08-12T16:50:21.000Z</published>
     <updated>2025-08-13T15:36:24.347Z</updated>
     
@@ -64,21 +64,21 @@
     
     
     
-    <category term="Minecraft" scheme="https://alsojiangshi.github.io/categories/Minecraft/"/>
+    <category term="Minecraft" scheme="https://alsojiangshi.top/categories/Minecraft/"/>
     
     
-    <category term="Minecraft" scheme="https://alsojiangshi.github.io/tags/Minecraft/"/>
+    <category term="Minecraft" scheme="https://alsojiangshi.top/tags/Minecraft/"/>
     
-    <category term="Noob" scheme="https://alsojiangshi.github.io/tags/Noob/"/>
+    <category term="Noob" scheme="https://alsojiangshi.top/tags/Noob/"/>
     
-    <category term="Guide" scheme="https://alsojiangshi.github.io/tags/Guide/"/>
+    <category term="Guide" scheme="https://alsojiangshi.top/tags/Guide/"/>
     
   </entry>
   
   <entry>
     <title>本站的搭建</title>
-    <link href="https://alsojiangshi.github.io/posts/1/"/>
-    <id>https://alsojiangshi.github.io/posts/1/</id>
+    <link href="https://alsojiangshi.top/posts/1/"/>
+    <id>https://alsojiangshi.top/posts/1/</id>
     <published>2025-07-08T10:03:40.118Z</published>
     <updated>2025-07-08T16:16:29.694Z</updated>
     
